@@ -25,7 +25,7 @@
 ![Проверка работоспособности авторизации через keycloak](https://github.com/x0ka1n3/TOIB-pracs-2023/blob/main/lab1/assets/8.png)
 
 ## Первая авторизация в аккаунт с использованием keycloak OTP
-![Первая авторизация в аккаунт с использованием keycloak OTP](https://github.com/x0ka1n3/TOIB-pracs-2023/blob/main/lab1/assets/1.png)
+![Первая авторизация в аккаунт с использованием keycloak OTP](https://github.com/x0ka1n3/TOIB-pracs-2023/blob/main/lab1/assets/9.png)
 
 ## Полный процесс авторизации
 ![Полный процесс авторизации](https://github.com/x0ka1n3/TOIB-pracs-2023/blob/main/lab1/assets/out.gif)
